@@ -1,5 +1,7 @@
 # Agentkoll
 
+[![Startsidan på agentkoll.se med rubriken Vad kan en AI-agent göra på er hemsida som den inte borde?](docs/hero.png)](https://agentkoll.se)
+
 Agentkoll visar vad en AI-agent kan göra på en hemsida som den inte borde. Tjänsten gör ett passivt säkerhetstest av hemsidans publika delar och ger en rapport med prioriterade åtgärder.
 
 Live: https://agentkoll.se
